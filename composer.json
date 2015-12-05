@@ -1,0 +1,8 @@
+{
+    "require": {
+        "twig/twig": "1.*",
+        "twbs/bootstrap": "3.*",
+        "components/jquery": "1.*",
+        "drmonty/chosen": "^1.4"
+    }
+}
